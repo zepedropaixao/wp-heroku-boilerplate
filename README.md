@@ -14,7 +14,12 @@ Support:
 
 --------
 
-## About:
+## About
+
+This project is forked from the the project done by Philipp Heuer:
+
+[wordpress-heroku](https://github.com/PhilippHeuer/wordpress-heroku)
+
 This project is a template for installing and running [WordPress](http://wordpress.org/) on [Heroku](http://www.heroku.com/).
 
 It is based on [Bedrock](https://roots.io/bedrock/), a modern WordPress stack that helps you to get started with the best development tools and a modern project structure.
