@@ -41,7 +41,8 @@
 	"humanmade/s3-uploads": "2.0.0-beta3",
 	"wpackagist-plugin/debug-bar": "0.9",
 	"wpackagist-plugin/siteorigin-panels": "2.6.2",
-	"wpackagist-plugin/so-widgets-bundle": "1.11.4"
+	"wpackagist-plugin/so-widgets-bundle": "1.11.4",
+	"wpackagist-plugin/livemesh-siteorigin-widgets": "1.7.3"
   },
   "require-dev": {
 	"heroku/heroku-buildpack-php": "*",
@@ -63,7 +64,8 @@
 		"wpackagist-plugin/all-in-one-seo-pack",
 		"wpackagist-plugin/debug-bar",
 		"wpackagist-plugin/siteorigin-panels",
-		"wpackagist-plugin/so-widgets-bundle"
+		"wpackagist-plugin/so-widgets-bundle",
+		"wpackagist-plugin/livemesh-siteorigin-widgets"
 	  ],
 	  "web/app/themes/{$name}/": [
 		"type:wordpress-theme"

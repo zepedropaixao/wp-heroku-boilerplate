@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c73866367cf6cdb8cbc13bea677d7245",
+    "content-hash": "8e77af3b79927660cb743ab49d00c49d",
     "packages": [
         {
             "name": "composer/ca-bundle",
@@ -3689,6 +3689,26 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/debug-bar/"
+        },
+        {
+            "name": "wpackagist-plugin/livemesh-siteorigin-widgets",
+            "version": "1.7.3",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/livemesh-siteorigin-widgets/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/livemesh-siteorigin-widgets.zip?timestamp=1519466843",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/livemesh-siteorigin-widgets/"
         },
         {
             "name": "wpackagist-plugin/nginx-helper",
